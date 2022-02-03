@@ -1,5 +1,66 @@
 .croissant {
   align-items: center;
-  margin-top: 50px;
+  margin: 0 auto;
+  margin-top: 40px;
   display: block;
+  max-width: 300px;
+}
+
+h1 {
+  font-size: xx-large;
+  color: antiquewhite;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  display: block;
+}
+ul {
+  display: block;
+  padding: 0%;
+  margin: 0 auto;
+  text-align: center;
+  list-style: none;
+  color: greenyellow;
+  font-size: large;
+}
+li {
+  text-align: center;
+  display: inline;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+body {
+  background-color: black;
+  list-style: none;
+}
+
+.explanation {
+  color: blanchedalmond;
+  font-size: medium;
+  text-align: center;
+}
+
+.contact-us {
+  font-size: xx-large;
+  color: antiquewhite;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.my-email {
+  color: antiquewhite;
+  font-size: large;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.email-link {
+  font-size: large;
+  color: blueviolet;
+  margin-left: 5px;
 }
