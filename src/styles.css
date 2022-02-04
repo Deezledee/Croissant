@@ -1,9 +1,9 @@
 .croissant {
   align-items: center;
-  margin: 0 auto;
-  margin-top: 40px;
+  margin: 30px auto;
   display: block;
   max-width: 300px;
+  border-radius: 10px;
 }
 
 h1 {
